@@ -1,0 +1,44 @@
+* {
+  background-color: black;
+  color: #fff;
+}
+
+label {
+  font-size: 30px;
+}
+
+.container {
+  border: none;
+  text-align: center;
+  margin-top: 200px;
+}
+input {
+  width: 400px;
+  height: 40px;
+  border-color: cyan;
+  box-shadow: 0px 5px 10px cyan;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 30px;
+}
+.container button {
+  cursor: pointer;
+}
+#banner button:hover {
+  background-color: red;
+  transition: 0.7s;
+}
+.button {
+  background-color: blue;
+  color: #fff;
+  height: 50px;
+  width: 200px;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+h1 {
+  font-size: 50px;
+  font-style: oblique;
+  color: orange;
+}
